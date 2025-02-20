@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import tkinter as tk
 from tkinter import messagebox
 
@@ -99,9 +96,6 @@ db = EmployeeDatabase()
 
 # Run the GUI
 db.run()
-
-
-# In[ ]:
 
 
 
